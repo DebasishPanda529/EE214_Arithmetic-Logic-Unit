@@ -1,0 +1,134 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/EE@IITB/EE 214/ALU/simulation/modelsim
+Ealu_beh
+Z1 w1662725822
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 1
+R0
+Z4 8D:/EE@IITB/EE 214/ALU/ALU.vhd
+Z5 FD:/EE@IITB/EE 214/ALU/ALU.vhd
+l0
+L4 1
+VL9[_`>3YbK4bi1=P>;08j0
+!s100 II2bGnI0@:m=[1LVa6TzK0
+Z6 OV;C;2020.1;71
+31
+Z7 !s110 1662725930
+!i10b 1
+Z8 !s108 1662725929.000000
+Z9 !s90 -reportprogress|300|-93|-work|work|D:/EE@IITB/EE 214/ALU/ALU.vhd|
+Z10 !s107 D:/EE@IITB/EE 214/ALU/ALU.vhd|
+!i113 1
+Z11 o-93 -work work
+Z12 tExplicit 1 CvgOpt 0
+Aa1
+R2
+R3
+DEx4 work 7 alu_beh 0 22 L9[_`>3YbK4bi1=P>;08j0
+!i122 1
+l36
+L13 65
+ViOh^G4ThI5<>i]:=Ohn3I3
+!s100 2W^n<BhJOf@G<kD:NYiK82
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Edut
+Z13 w1662721921
+R2
+R3
+!i122 0
+R0
+Z14 8D:/EE@IITB/EE 214/ALU/DUT.vhdl
+Z15 FD:/EE@IITB/EE 214/ALU/DUT.vhdl
+l0
+L7 1
+V1m[FAQGLFWHTT[2EEI8Jm2
+!s100 LIZjEZYk2?d;4O4]RmK[R2
+R6
+31
+Z16 !s110 1662725929
+!i10b 1
+R8
+Z17 !s90 -reportprogress|300|-93|-work|work|D:/EE@IITB/EE 214/ALU/DUT.vhdl|
+Z18 !s107 D:/EE@IITB/EE 214/ALU/DUT.vhdl|
+!i113 1
+R11
+R12
+Adutwrap
+R2
+R3
+DEx4 work 3 dut 0 22 1m[FAQGLFWHTT[2EEI8Jm2
+!i122 0
+l17
+L12 15
+V176Vm:VND75P[Q`;cP7Jb1
+!s100 @ZSHa<4@F<7m17U>ZPFGN2
+R6
+31
+R16
+!i10b 1
+R8
+R17
+R18
+!i113 1
+R11
+R12
+Etestbench
+Z19 w1662721021
+R3
+R2
+!i122 2
+R0
+Z20 8D:/EE@IITB/EE 214/ALU/Testbench.vhdl
+Z21 FD:/EE@IITB/EE 214/ALU/Testbench.vhdl
+l0
+L7 1
+V]iKK_Z9L:G9B:i8c]3eFH0
+!s100 bWf8kl8zb90X@P1m>V^K20
+R6
+31
+R7
+!i10b 1
+Z22 !s108 1662725930.000000
+Z23 !s90 -reportprogress|300|-93|-work|work|D:/EE@IITB/EE 214/ALU/Testbench.vhdl|
+!s107 D:/EE@IITB/EE 214/ALU/Testbench.vhdl|
+!i113 1
+R11
+R12
+Abehave
+R3
+R2
+DEx4 work 9 testbench 0 22 ]iKK_Z9L:G9B:i8c]3eFH0
+!i122 2
+l69
+L9 132
+V=l3F:1>OPGFI`j9zzVHbJ3
+!s100 >DW1hT;MPQ0XIMzVhA?om0
+R6
+31
+R7
+!i10b 1
+R22
+R23
+Z24 !s107 D:/EE@IITB/EE 214/ALU/Testbench.vhdl|
+!i113 1
+R11
+R12
